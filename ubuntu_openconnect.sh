@@ -3,9 +3,9 @@ cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 
 #Database Details
 db_host='209.159.152.66';
-db_user='crypticv_xctunnel';
+db_user='crypticv_hmvpnshop';
 db_pass='@@@@F1r3n3t';
-db_name='crypticv_xctunnel';
+db_name='crypticv_hmvpnshop';
 
 install_require()
 {
